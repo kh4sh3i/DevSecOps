@@ -13,15 +13,6 @@ Collection and Roadmap for everyone who wants DevSecOps.This library contains li
 
 
 ## 📜 Table of Contents
-- [Roadmap](#-roadmap)
-- [Tools](#-tools)
-  * [0. Precommit](#pre-commit)
-  * [1. Secrets management ](#secrets-management)
-  * [2. SCA](#sca)
-  * [3. SAST](#sast)
-  * [4. DAST](#dast)
-  * [5. Containers](#containers)
-  * [6. Kubernetes](#kubernetes) 
 - [Resources](#resources)
   * [0. DevSecOps Overview](#0-devsecops-overview)
   * [1. Design](#1-design)
@@ -30,7 +21,49 @@ Collection and Roadmap for everyone who wants DevSecOps.This library contains li
   * [4. Test](#4-test)
   * [5. Deploy](#5-deploy)
   * [6. Operate and Monitor](#6-operate-and-monitor)
+- [Tools](#-tools)
+  * [0. Precommit](#pre-commit)
+  * [1. Secrets management ](#secrets-management)
+  * [2. SCA](#sca)
+  * [3. SAST](#sast)
+  * [4. DAST](#dast)
+  * [5. Containers](#containers)
+  * [6. Kubernetes](#kubernetes) 
 - [Awesome resources](#awesome-resources)
+
+
+
+
+## 📦 Resources
+### 0. DevSecOps Overview
+  - Overview
+    1. [DevSecOps What Why And How (BlackHat USA-19)](https://i.blackhat.com/USA-19/Thursday/us-19-Shrivastava-DevSecOps-What-Why-And-How.pdf)
+    2. [DevSecOps – Security and Test Automation (Mitre)](https://www.mitre.org/sites/default/files/publications/pr-19-0769-devsecops_security_test_automation-briefing.pdf)
+### 1. Design
+  - Development Lifecycle
+    1. [OWASP's Software Assurance Maturity Model](https://github.com/OWASP/samm)
+  - Threat Model
+    1. [Threat Modeling by OWASP](https://owasp.org/www-community/Threat_Modeling)
+    2. [OWASP Threat Dragon](https://threatdragon.github.io)
+### 2. Develop
+  - Secure Coding
+    1. [Go-SCP / Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
+
+### 3. Build  
+  - SAST(Static Application Security Testing)
+### 4. Test
+  - DAST(Dynamic Application Security Testing)
+  - Penetration testing
+### 5. Deploy
+  - Security Hardening & Config
+    1. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+  - Security Scanning
+### 6. Operate and Monitor
+  - RASP(Run-time Application Security Protection)
+  - Security Patch
+  - Security Audit
+  - Security Monitor
+  - Security Analysis
 
 
 ## 🔩 Tools 
@@ -93,38 +126,6 @@ Collection and Roadmap for everyone who wants DevSecOps.This library contains li
 | :---------- | :---------- | :---------- | 
 | **kube-bench** | [https://github.com/aquasecurity/kube-bench ](https://github.com/aquasecurity/kube-bench ) | Kubernetes benchmarking tool|
 | **kube-hunter** | [https://github.com/aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) | Active scanner for k8s (purple)  |
-
-
-## 📦 Resources
-### 0. DevSecOps Overview
-  - Overview
-    1. [DevSecOps What Why And How (BlackHat USA-19)](https://i.blackhat.com/USA-19/Thursday/us-19-Shrivastava-DevSecOps-What-Why-And-How.pdf)
-    2. [DevSecOps – Security and Test Automation (Mitre)](https://www.mitre.org/sites/default/files/publications/pr-19-0769-devsecops_security_test_automation-briefing.pdf)
-### 1. Design
-  - Development Lifecycle
-    1. [OWASP's Software Assurance Maturity Model](https://github.com/OWASP/samm)
-  - Threat Model
-    1. [Threat Modeling by OWASP](https://owasp.org/www-community/Threat_Modeling)
-    2. [OWASP Threat Dragon](https://threatdragon.github.io)
-### 2. Develop
-  - Secure Coding
-    1. [Go-SCP / Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
-
-### 3. Build  
-  - SAST(Static Application Security Testing)
-### 4. Test
-  - DAST(Dynamic Application Security Testing)
-  - Penetration testing
-### 5. Deploy
-  - Security Hardening & Config
-    1. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-  - Security Scanning
-### 6. Operate and Monitor
-  - RASP(Run-time Application Security Protection)
-  - Security Patch
-  - Security Audit
-  - Security Monitor
-  - Security Analysis
 
 
 
