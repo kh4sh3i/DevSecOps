@@ -76,13 +76,13 @@ Collection and Roadmap for everyone who wants DevSecOps, contains list of tools 
 2. unit Test (Junit & Jacoco)
 3. mutation Test (PIT)
 4. Vulnerability scan -Docker 
-  * dependency check
-  * Trivy
-  * OPA conftest
+    * dependency check
+    * Trivy
+    * OPA conftest
 5. kubernetes deployment
-  * kubesec scan
-  * OPA scan
-  * trivy
+    * kubesec scan
+    * OPA scan
+    * trivy
 6. integration test
 7. owasp zap (DAST) 
 8. CIS benchmark (kube-bench)
