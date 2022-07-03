@@ -22,6 +22,7 @@ Collection and Roadmap for everyone who wants DevSecOps, contains list of tools 
   * [4. Test](#4-test)
   * [5. Deploy](#5-deploy)
   * [6. Operate and Monitor](#6-operate-and-monitor)
+- [Jenkins stage](#jenkins-stage)  
 - [Tools](#-tools)
   * [0. Precommit](#pre-commit)
   * [1. Secrets management ](#secrets-management)
@@ -65,6 +66,38 @@ Collection and Roadmap for everyone who wants DevSecOps, contains list of tools 
   - Security Audit
   - Security Monitor
   - Security Analysis
+
+
+
+
+## Jenkins stage
+
+* 1) sonarQube(SAST)
+* 2) unit Test (Junit & Jacoco)
+* 3) mutation Test (PIT)
+* 4) Vulnerability scan -Docker 
+  * dependency check
+  * Trivy
+  * OPA conftest
+* 5) kubernetes deployment
+  * kubesec scan
+  * OPA scan
+  * trivy
+* 6) integration test
+* 7) owasp zap (DAST) 
+* 8) CIS benchmark (kube-bench)
+* 9) monitoring
+
+Tips :
+* integration test check valid request and response api request
+* we install openapi plugin in spring or other framework then get api-docs for pentesting woth zap proxy
+* we use slack hook for send notification from jenkin, after any error or warm in report
+* prometheus is a good notification manager and make graph with graphana
+* use kiali for monitoring GUI kubernetis
+* use mTls with istio for secure comunication betwean pods 
+* falco is opensource cloud native runtime security project
+* helm id package manager for kubernetis like yum 
+
 
 
 ## 🔩 Tools 
@@ -127,6 +160,8 @@ Collection and Roadmap for everyone who wants DevSecOps, contains list of tools 
 | :---------- | :---------- | :---------- | 
 | **kube-bench** | [https://github.com/aquasecurity/kube-bench ](https://github.com/aquasecurity/kube-bench ) | Kubernetes benchmarking tool|
 | **kube-hunter** | [https://github.com/aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) | Active scanner for k8s (purple)  |
+
+
 
 
 
