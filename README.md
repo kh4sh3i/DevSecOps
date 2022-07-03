@@ -350,8 +350,8 @@ AWS specific DevSecOps tooling. Tools here cover different areas like inventory 
 
 GCP specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review. 
 
-| Name | URL | Description | Meta | 
-| :---------- | :---------- | :---------- | :----------: |
+| Name | URL | Description | 
+| :---------- | :---------- | :---------- | 
 | **Forseti** | [https://github.com/forseti-security/forseti-security](https://github.com/forseti-security/forseti-security) | Complex security orchestration and scanning platform | 
 
 
@@ -359,8 +359,8 @@ GCP specific DevSecOps tooling. Tools here cover different areas like inventory 
 
 Policy as code is the idea of writing code in a high-level language to manage and automate policies. By representing policies as code in text files, proven software development best practices can be adopted such as version control, automated testing, and automated deployment. (Source: https://docs.hashicorp.com/sentinel/concepts/policy-as-code)
 
-| Name | URL | Description | Meta | 
-| :---------- | :---------- | :---------- | :----------: |
+| Name | URL | Description |
+| :---------- | :---------- | :---------- |
 | **Open Policy agent** | [https://github.com/open-policy-agent/opa](https://github.com/open-policy-agent/opa) | General-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack |
 | **Inspec** | [https://github.com/inspec/inspec](https://github.com/inspec/inspec) | Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. |
 | **Cloud Formation guard** | [https://github.com/aws-cloudformation/cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard) | Cloud Formation policy as code |
@@ -372,8 +372,8 @@ Chaos Engineering is the discipline of experimenting on a system in order to bui
 
 Reading and manifestos: https://principlesofchaos.org/
 
-| Name | URL | Description | Meta | 
-| :---------- | :---------- | :---------- | :----------: |
+| Name | URL | Description | 
+| :---------- | :---------- | :---------- | 
 | **chaos-mesh** | [https://github.com/chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | It is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments |
 | **Chaos monkey** | [https://netflix.github.io/chaosmonkey/](https://netflix.github.io/chaosmonkey/) | Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures. |
 | **chaoskube** | [https://github.com/linki/chaoskube ](https://github.com/linki/chaoskube ) | Test how your system behaves under arbitrary pod failures. |
@@ -401,8 +401,8 @@ Scanning your infrastructure when it is only code helps shift-left the security.
 
 Event driven security help to drive, automate and execute tasks for security processes. The tools here and not dedicated security tools but are helping to automate and orchestrate security tasks or are part of most modern security automation frameworks or tools. 
 
-| Name | URL | Description | Meta |
-| :---------- | :---------- | :---------- | :----------: |
+| Name | URL | Description | 
+| :---------- | :---------- | :---------- | 
 | **StackStorm** | [https://github.com/StackStorm/st2](https://github.com/StackStorm/st2) | Platform for integration and automation across services and tools supporting event driven security |
 | **Camunda** | [https://github.com/camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) | Workflow and process automation |
 | **DefectDojo** | [https://github.com/DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | Security orchestration and vulnerability management platform |
