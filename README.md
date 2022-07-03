@@ -164,6 +164,23 @@ Tips :
 
 
 
+<img src="/img/0.png" width="800px" />
+<img src="/img/1.png" width="800px" />
+<img src="/img/2.png" width="800px" />
+<img src="/img/3.png" width="800px" />
+<img src="/img/4.png" width="800px" />
+<img src="/img/5.png" width="800px" />
+<img src="/img/6.png" width="800px" />
+<img src="/img/7.png" width="800px" />
+<img src="/img/8.png" width="800px" />
+<img src="/img/9.png" width="800px" />
+<img src="/img/10.png" width="800px" />
+<img src="/img/11.png" width="800px" />
+<img src="/img/12.png" width="800px" />
+<img src="/img/13.png" width="800px" />
+
+
+
 
 ## Awesome resources
 * https://github.com/sottlmarek/DevSecOps
