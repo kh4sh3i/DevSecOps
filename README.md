@@ -1,10 +1,8 @@
 # DevSecOps
-Collection and Roadmap for everyone who wants DevSecOps
-This library contains list of tools and methodologies accompanied with resources. The main goal is to provide to the engineers a guide through opensource DevSecOps tooling
-
+Collection and Roadmap for everyone who wants DevSecOps.This library contains list of tools and methodologies accompanied with resources. 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/99404580-2374f000-292f-11eb-9348-284f24cca88c.png" alt="" width="500px;"></a>
+  <a href=""><img src="https://1ohvy81v7br01wtgnj4bf0ek-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/DevSecOps-Diagram.png" alt="" width="500px;"></a>
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/DevSecOps">
@@ -43,8 +41,6 @@ This library contains list of tools and methodologies accompanied with resources
 | Name | URL | Description |
 | :---------- | :---------- | :---------- |
 | **git-secrets** | [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets) | AWS labs tool preventing you from committing secrets to a git repository  |
-| **git-hound** | [https://github.com/tillson/git-hound](https://github.com/tillson/git-hound) | Searchers secrets in git |
-| **Threat Dragon** | [https://github.com/OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) | OWASP Threat modeling tool  |
 | **Talisman** | [https://github.com/thoughtworks/talisman](https://github.com/thoughtworks/talisman) | A tool to detect and prevent secrets from getting checked in |style=for-the-badge) |
 
 
