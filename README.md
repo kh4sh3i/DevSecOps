@@ -1,5 +1,3 @@
-# DevSecOps
-Collection and Roadmap for everyone who wants DevSecOps.This library contains list of tools and methodologies accompanied with resources. 
 <h1 align="center">
   <br>
   <a href=""><img src="https://1ohvy81v7br01wtgnj4bf0ek-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/DevSecOps-Diagram.png" alt="" width="500px;"></a>
@@ -10,6 +8,9 @@ Collection and Roadmap for everyone who wants DevSecOps.This library contains li
   <a href="https://twitter.com/intent/follow?screen_name=kh4sh3i_"><img src="https://img.shields.io/twitter/follow/kh4sh3i_?style=flat&logo=twitter"></a>
   <a href="https://github.com/kh4sh3i"><img src="https://img.shields.io/github/stars/kh4sh3i?style=flat&logo=github"></a>
 </h1>
+
+# DevSecOps
+Collection and Roadmap for everyone who wants DevSecOps, contains list of tools and methodologies
 
 
 ## 📜 Table of Contents
