@@ -72,21 +72,23 @@ Collection and Roadmap for everyone who wants DevSecOps, contains list of tools 
 
 ## Jenkins stage
 
-* 1) sonarQube(SAST)
-* 2) unit Test (Junit & Jacoco)
-* 3) mutation Test (PIT)
-* 4) Vulnerability scan -Docker 
+1. sonarQube(SAST)
+2. unit Test (Junit & Jacoco)
+3. mutation Test (PIT)
+4. Vulnerability scan -Docker 
   * dependency check
   * Trivy
   * OPA conftest
-* 5) kubernetes deployment
+5. kubernetes deployment
   * kubesec scan
   * OPA scan
   * trivy
-* 6) integration test
-* 7) owasp zap (DAST) 
-* 8) CIS benchmark (kube-bench)
-* 9) monitoring
+6. integration test
+7. owasp zap (DAST) 
+8. CIS benchmark (kube-bench)
+9. monitoring
+
+
 
 Tips :
 * integration test check valid request and response api request
