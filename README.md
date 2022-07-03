@@ -28,10 +28,7 @@ This library contains list of tools and methodologies accompanied with resources
   * [6. Operate and Monitor](#6-operate-and-monitor)
 - [Security of CICD](#security-of-cicd)
 - [Awesome resources](#awesome-resources)
-- [Other roadmaps](#-other-roadmaps)
-- [Wrap Up](#-wrap-up)
-- [Contributors](#contributors)
-- [Contribute](https://github.com/kh4sh3i/DevSecOps/blob/main/CONTRIBUTING.md)
+
 
 ## 💭 Roadmap
 ![Roadmap](./DevSecOps.png)
@@ -111,6 +108,19 @@ Open https://github.com/kh4sh3i_/DevSecOps/blob/main/tools/README.md
 * https://github.com/devsecops/awesome-devsecops
 * https://github.com/TaptuIT/awesome-devsecops
 * https://github.com/hahwul/DevSecOps
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
